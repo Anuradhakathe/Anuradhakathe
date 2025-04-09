@@ -8,6 +8,6 @@ Hi , I'm Anuradha Kathe, Programmer and tech enthusiast looking for new opportun
  🌱 I’m currently learning  Backend Tools
 
  📫 How to reach me:
- Linkdin: www.linkedin.com/in/anuradha-kathe-79479a2b2
- Email: anuradhavk2004@gmail.com
+- Linkdin: www.linkedin.com/in/anuradha-kathe-79479a2b2
+- Email: anuradhavk2004@gmail.com
 
