@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Anuradha Kathe
 
-<!--
+
 **Anuradhakathe/Anuradhakathe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 A passionate WEB developer
@@ -13,4 +13,4 @@ Hi , I'm Anuradha Kathe, Programmer and tech enthusiast looking for new opportun
 - 📫 How to reach me: ...
 - Linkdin: www.linkedin.com/in/anuradha-kathe-79479a2b2
 - Email: anuradhavk2004@gmail.com
--->
+
